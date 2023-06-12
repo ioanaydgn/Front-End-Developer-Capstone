@@ -26,5 +26,4 @@ For the `/book` route, in the table reservation, we had to implement a time chec
 ### Links
 Certificate: [Coursera]
 (-)
-Figma file: [Figma]
-(https://www.figma.com/file/DZsc47etvyQpzKdB3b6rT5/Principles-of-UX-and-UI---Coursera?type=design&t=0bOYkEdMdzORnPHa-6)
+Figma file: [Figma](https://www.figma.com/file/DZsc47etvyQpzKdB3b6rT5/Principles-of-UX-and-UI---Coursera?type=design&t=0bOYkEdMdzORnPHa-6)
